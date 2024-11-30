@@ -1,0 +1,22 @@
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\PB303 ADONet.exe
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\PB303 ADONet.deps.json
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\PB303 ADONet.runtimeconfig.json
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\PB303 ADONet.dll
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\PB303 ADONet.pdb
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\PB303 ADONet.csproj.AssemblyReference.cache
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\PB303 ADONet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\PB303 ADONet.AssemblyInfoInputs.cache
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\PB303 ADONet.AssemblyInfo.cs
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\PB303 ADONet.csproj.CoreCompileInputs.cache
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\PB303 AD.F4F7BCD2.Up2Date
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\PB303 ADONet.dll
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\refint\PB303 ADONet.dll
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\PB303 ADONet.pdb
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\PB303 ADONet.genruntimeconfig.cache
+C:\Users\Asiman\source\repos\PB303 ADONet\PB303 ADONet\obj\Debug\net6.0\ref\PB303 ADONet.dll
